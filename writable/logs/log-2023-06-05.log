@@ -1,0 +1,140 @@
+CRITICAL - 2023-06-05 11:19:17 --> Invalid file: "form.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('form.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('form', [], true)
+ 3 APPPATH\Controllers\FormController.php(12): view('form')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\FormController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FormController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\prakwebpro\\public\\index.php')
+CRITICAL - 2023-06-05 11:20:35 --> Invalid file: "form.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('form.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('form', [], true)
+ 3 APPPATH\Controllers\FormController.php(12): view('form')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\FormController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FormController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\prakwebpro\\public\\index.php')
+CRITICAL - 2023-06-05 11:20:36 --> Invalid file: "form.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('form.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('form', [], true)
+ 3 APPPATH\Controllers\FormController.php(12): view('form')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\FormController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FormController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\prakwebpro\\public\\index.php')
+CRITICAL - 2023-06-05 11:20:36 --> Invalid file: "form.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('form.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('form', [], true)
+ 3 APPPATH\Controllers\FormController.php(12): view('form')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\FormController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FormController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\prakwebpro\\public\\index.php')
+CRITICAL - 2023-06-05 11:20:36 --> Invalid file: "form.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('form.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('form', [], true)
+ 3 APPPATH\Controllers\FormController.php(12): view('form')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\FormController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FormController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\prakwebpro\\public\\index.php')
+CRITICAL - 2023-06-05 11:20:36 --> Invalid file: "form.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('form.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('form', [], true)
+ 3 APPPATH\Controllers\FormController.php(12): view('form')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\FormController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FormController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\prakwebpro\\public\\index.php')
+CRITICAL - 2023-06-05 11:20:48 --> Invalid file: "form.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('form.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('form', [], true)
+ 3 APPPATH\Controllers\FormController.php(11): view('form')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\FormController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FormController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\prakwebpro\\public\\index.php')
+CRITICAL - 2023-06-05 11:20:48 --> Invalid file: "form.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('form.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('form', [], true)
+ 3 APPPATH\Controllers\FormController.php(11): view('form')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\FormController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FormController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\prakwebpro\\public\\index.php')
+CRITICAL - 2023-06-05 11:20:49 --> Invalid file: "form.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('form.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('form', [], true)
+ 3 APPPATH\Controllers\FormController.php(11): view('form')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\FormController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FormController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\prakwebpro\\public\\index.php')
+CRITICAL - 2023-06-05 11:20:57 --> Invalid file: "form.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('form.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('form', [], true)
+ 3 APPPATH\Controllers\FormController.php(11): view('form')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\FormController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FormController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\prakwebpro\\public\\index.php')
+CRITICAL - 2023-06-05 11:27:34 --> Invalid file: "hasil.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('hasil.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('hasil', [], true)
+ 3 APPPATH\Controllers\FormController.php(36): view('hasil', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\FormController->submit()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FormController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\prakwebpro\\public\\index.php')
+CRITICAL - 2023-06-05 11:29:14 --> Invalid file: "form.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('form.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('form', [], true)
+ 3 APPPATH\Controllers\FormController.php(12): view('form')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\FormController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FormController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\prakwebpro\\public\\index.php')
+CRITICAL - 2023-06-05 11:29:17 --> Invalid file: "form.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('form.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('form', [], true)
+ 3 APPPATH\Controllers\FormController.php(12): view('form')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\FormController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FormController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\prakwebpro\\public\\index.php')
+CRITICAL - 2023-06-05 11:36:13 --> Invalid file: "form.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('form.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('form', [], true)
+ 3 APPPATH\Controllers\FormController.php(12): view('form')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\FormController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FormController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\prakwebpro\\public\\index.php')
